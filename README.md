@@ -11,3 +11,4 @@ A Java-based tile game where players navigate a maze to find a hidden house. Fea
 
 
 *Developed following step-by-step tutorial materials and resources from RyiSnow YouTube.*
+**Note:** Created for educational purposes only
