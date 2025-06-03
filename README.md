@@ -8,3 +8,6 @@ A Java-based tile game where players navigate a maze to find a hidden house. Fea
 - **Collision system** for walls and obstacles
 - **Win condition** when reaching the hidden house
 - **Efficient rendering** with Java Swing
+
+
+*Developed following tutorial materials and resources from RyiSnow YouTube.*
